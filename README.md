@@ -12,3 +12,8 @@ Below are the 3 best players in team:
 1. M. Hafeez
 2. V. Bhriguvansi
 3. G. Amyjot
+
+Below is the list of other teams that would be good to watch play.
+* Basket Ball Federation of India
+* FIBA Asia Cup Qualifiers
+* India Women's National Basket Ball Team
