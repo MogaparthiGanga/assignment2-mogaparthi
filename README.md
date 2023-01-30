@@ -26,4 +26,11 @@ Below is the list of other teams that would be good to watch play.
 Below table provides the list of countries that are recommended to visit to have a great vacation.<br>
 Countries offers variety of tourism spots including stay and also have different dishes to taste.
 
+| Country | Reason | sDays to be Spend |
+| :---: | :---: | :---: |
+| India | variety of cultures and languages | 30 |
+| USA | spectacular and incredibly diberse landscape | 25 |
+| Indonesia | gorgeous islands and beaches | 15 |
+| Africa | wild life | 12 |
+| Australia | perfect roadtrip destination | 35 |
 
