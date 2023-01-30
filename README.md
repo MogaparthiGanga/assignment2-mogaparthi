@@ -34,3 +34,8 @@ Countries offers variety of tourism spots including stay and also have different
 | Africa | wild life | 12 |
 | Australia | perfect roadtrip destination | 35 |
 
+---
+### Funny Quotes
+> There is no sunrise so beautiful that it is worth waking me up to see it. - *KALING*<br>
+> If you are not yelling at your kids, you are not spending enough time with them. - *WITHERSPOON*
+
