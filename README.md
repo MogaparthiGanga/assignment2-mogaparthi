@@ -39,3 +39,19 @@ Countries offers variety of tourism spots including stay and also have different
 > There is no sunrise so beautiful that it is worth waking me up to see it. - *KALING*<br>
 > If you are not yelling at your kids, you are not spending enough time with them. - *WITHERSPOON*
 
+---
+### Code Fencing
+
+> I'm trying to build a datablog that is about what happens on my blog. I don't want these posts to appear on the front page, so I want to exclude the category they're in, as they're always in the same category. <https://stackoverflow.com/questions/26437228/exclude-specific-category-from-loop-in-wordpress>
+
+```
+<?php query_posts('cat=-3'); ?>
+
+<?php if (have_posts()) : ?>
+<?php while (have_posts()) : the_post(); ?>
+  <h3></h3>	
+  <p><?php the_time('F jS, Y') ?></p>
+  <?php the_content(); ?>
+<?php endwhile; ?>
+```
+<https://css-tricks.com/snippets/wordpress/remove-specific-categories-from-the-loop/>
